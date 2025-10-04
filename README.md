@@ -20,6 +20,8 @@ WeatherApp is a Java console program that obtains current weather data using use
 
 Only the standard libraries included in the Java Development Kit (JDK) are used in the WeatherApp software, which is entirely developed in Java.  This indicates that no third-party libraries or dependencies—such JSON parsing libraries like Jackson or Gson—are needed.  With this method, the software can execute on any system that has a Java Runtime Environment (JRE), guaranteeing portability and simplicity.
 
+Used resources like GOOGLE, QUICKREF, YOUTUBE AND CHATGPT for quick reference, they helped me complete tasks efficiently.
+
 ## The program uses several core Java packages:
 
 java.net.HttpURLConnection and java.net.URL: With the help of these classes, the program can send a GET request to an external weather API (Open-Meteo) and manage the HTTP network connection.  Basic client-side HTTP communication is demonstrated here.
