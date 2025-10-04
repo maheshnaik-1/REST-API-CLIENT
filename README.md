@@ -106,12 +106,17 @@ Basic error handling is implemented to catch exceptions such as network errors o
 # Output:
 
 Enter latitude (e.g., 35): 50
+
 Enter longitude (e.g., 139): 150
+
 Full API Response: {"latitude":50.0,"longitude":150.0,"generationtime_ms":0.29277801513671875,"utc_offset_seconds":0,"timezone":"GMT","timezone_abbreviation":"GMT","elevation":0.0,"current_weather_units":{"time":"iso8601","interval":"seconds","temperature":"°C","windspeed":"km/h","winddirection":"°","is_day":"","weathercode":"wmo code"},"current_weather":{"time":"2025-10-04T08:30","interval":900,"temperature":11.0,"windspeed":43.5,"winddirection":201,"is_day":0,"weathercode":3}}
 
 Weather Report:
+
 Temperature: 11.0 °C
+
 Wind Speed: 43.5 km/h
+
 Time: 2025-10-04T08:30
 
 
