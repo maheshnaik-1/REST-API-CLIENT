@@ -100,3 +100,5 @@ The extracted values are printed to the console in a readable format, showing te
 
 Error Handling:
 Basic error handling is implemented to catch exceptions such as network errors or invalid input and display meaningful messages to the user.
+
+![Image](https://github.com/user-attachments/assets/ae8f7ea9-c43a-4d00-acad-f3b5a1dcd136)
