@@ -36,7 +36,7 @@ This minimalist approach showcases a low-dependency solution ideal for environme
 
 # Editor and Compiler Platforms:
 
-The program can be developed and run on a variety of platforms, as long as a Java Development Kit (JDK) is installed. Some popular environments include:
+During the development and testing process, I used multiple environments to ensure the program’s portability and correctness:
 
 IntelliJ IDEA: A widely used, feature-rich Integrated Development Environment (IDE) for Java development. IntelliJ offers code completion, debugging, and project management, making it an excellent choice for writing and testing this program.
 
